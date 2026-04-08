@@ -60,18 +60,10 @@ Coffee ☕ + Music 🎧 = Faster Debugging 🚀
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
 </tr>
 
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br>IntelliJ</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48"/><br>PyCharm</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48"/><br>Unity</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-</tr>
 
 </table>
 </div>
